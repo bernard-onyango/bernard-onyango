@@ -72,6 +72,6 @@ Here’s a fun **Snake Game** animation that represents my contributions:
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-onyango-14591b1a1/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://bernardonyango.dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://bernard-onyango.github.io) 
 
 🚀 *Always open to exciting collaborations in tech & sustainability!*  
